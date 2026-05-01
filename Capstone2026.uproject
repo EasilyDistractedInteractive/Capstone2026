@@ -57,6 +57,10 @@
 		{
 			"Name": "rdTexTools",
 			"Enabled": false
+		},
+		{
+			"Name": "VaRest",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
