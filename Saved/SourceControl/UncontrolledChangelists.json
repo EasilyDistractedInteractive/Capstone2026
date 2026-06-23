@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Dev/Capstone2026/Content/Blueprints/TempZ/Tasks/TaskManager.uasset",
+				"E:/Dev/Capstone2026/Content/Blueprints/TempZ/Tasks/BP_TaskBase.uasset",
+				"E:/Dev/Capstone2026/Content/Blueprints/TempZ/Tasks/BPL_TaskSystem.uasset",
+				"E:/Dev/Capstone2026/Content/Blueprints/TempZ/LevelActors/3DAssets/Environment/Product_Tables/BP_NewbinTable.uasset",
+				"E:/Dev/Capstone2026/Content/Blueprints/TempZ/Tasks/Logic/BP_Task_RestockStockContainer.uasset",
+				"E:/Dev/Capstone2026/Content/Blueprints/TempZ/Tasks/Data/StockContainerComponent.uasset",
+				"E:/Dev/Capstone2026/Content/Blueprints/TempZ/Tasks/Actors/BP_StockContainer.uasset",
+				"E:/Dev/Capstone2026/Content/Blueprints/TempZ/Tasks/Logic/BP_Task_HoldPuddle.uasset",
+				"E:/Dev/Capstone2026/Content/Blueprints/TempZ/Tasks/Actors/BP_SpillManager.uasset",
+				"E:/Dev/Capstone2026/Content/__ExternalActors__/Maps/Prototyping/PeakHourV2/4/M5/MKJW7DVMBNJ720NQISF0MG.uasset"
+			]
+		}
+	]
+}
